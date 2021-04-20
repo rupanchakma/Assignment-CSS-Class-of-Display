@@ -1,0 +1,116 @@
+*{
+	margin: 0px;
+}
+
+
+.box1 {
+	width: 100%;
+	height: 150px;
+	background-color: #000000;
+}
+
+.box1 p{
+	display: inline-block;
+	color: white;
+	font-size: larger;
+	font-family: candara;
+	width: 100px;
+	height: 100px;
+}
+
+.box1 h1{
+	text-align: center;
+	color: white;
+	margin-top: -50px;
+}
+
+.box2{
+	height: 500px;
+	width: 100%;
+	background-image: url('../img/pexels-jopwell-2422286.jpg'); 
+	background-size: cover;
+	overflow: hidden;
+	background-attachment: fixed;
+	background-position: center center;
+}
+
+.box2 h1 {
+	text-align: center;
+	font-family: sigmar one;
+	font-weight: normal;
+	color:red;
+	margin-top: 20px;
+}
+
+.box2 p{
+	text-align: center;
+	font-family: candara;
+	color:red;
+}
+
+.box3, .box5 {
+	width: 100%;
+	height: 400px;
+	background-color: #000000;
+}
+
+.box3 {
+	width: 100%;
+	height: 400px;
+	background-image: url('../img/IMG_1968.jpg'); 
+	background-size: cover;
+	overflow: hidden;
+	background-attachment: fixed;
+	background-position: center center;
+}
+
+.box3 h1{
+	text-align: left;
+	color: red;
+}
+.box4{
+	width: 100%;
+	height: 500px;
+	background-image: url('../img/pexels-anthony-shkraba-4348399.jpg'); 
+	background-size: cover;
+	overflow: hidden;
+	background-attachment: fixed;
+	background-position: center center;
+}
+
+.box4 h1 {
+	text-align: center;
+	font-family: sigmar one;
+	font-weight: normal;
+	color: #ff0000;
+	margin-top: 20px;
+}
+
+.box4 p{
+	text-align: center;
+	font-family: candara;
+	color: #ff0000;
+}
+
+.box5 h1 {
+	text-align: center;
+	font-family: sigmar one;
+	font-weight: normal;
+	color: ghostwhite;
+	
+}
+
+.box6{
+	width: 100%;
+	height: 500px;
+	background-image: url('../img/pexels-tatiana-2956376.jpg'); 
+	background-size: cover;
+	overflow: hidden;
+	background-attachment: fixed;
+	background-position: center center;
+}
+
+.box6 h1{
+	text-align: center;
+	color: yellow;
+}
